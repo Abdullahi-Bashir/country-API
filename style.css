@@ -15,7 +15,7 @@ body {
     background-color: blueviolet;
     padding: 2rem;
     width: 400px;
-    height: 450px;
+    height: 480px;
     border-radius: 15px;
 }
 h2{
@@ -25,6 +25,12 @@ h2{
     bottom: 10px;
     color: rgba(242, 244, 243, 0.973);
     text-align: center;
+}
+h3{
+    position: relative;
+    top: 1rem;
+    color: white;
+    font-size: 1.5rem;
 }
 ::placeholder{
     color: blueviolet;
@@ -52,14 +58,14 @@ form{
 }
 h1{
   position: relative;
-  top: 1.5rem;
+  top: 1rem;
   color: white;
   font-size: 1.5rem;
 }
 
 img{
     position: relative;
-    top: 50px;
+    top: 40px;
     box-shadow: 0 1rem 1rem rgba(2, 2, 3, 0.322);
     width: 300px;
     height: 200px;
